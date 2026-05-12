@@ -32,8 +32,6 @@ This project allows users to:
  📁 Project Structure
 
 
-Stopwatch/
-│
 ├── index.html
 
 ├── style.css
